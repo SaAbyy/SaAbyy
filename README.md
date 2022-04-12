@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaAbyy
+- 👋 @SaAbyy
 - 👀 J'adore python et je suis actuellement en train de programmer un bot discord pour mon serveur.
 - 🌱 J'apprends actuellement certains modules python comme discord.py ou pygame.
  
